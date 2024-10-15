@@ -53,7 +53,7 @@ while IFS= read -r url; do
 
     # Run sqlmap with the URL in the background
     echo "Running sqlmap on: $url"
-    /opt/sqlmap/sqlmap.py -u "$url" --level="$level" --risk="$risk" --random-agent \
+    sqlmap -u "$url" --level="$level" --risk="$risk" --random-agent \
         --tamper="$tamper_script" --batch --threads="$threads" --output-dir="$output_dir" &
 
     # Increment the current job counter
