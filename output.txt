@@ -1,0 +1,6 @@
+http://103.39.198.83/main.php?param=a=aPBB&m=mLkt=
+http://103.39.198.83/main.php?param=setting=1=
+http://103.39.198.83/main.php?param=a=aPBB&m=mLkt&f=fLkt2&tab=1&svcid=278/BARU-PBB/BAPENDA/2024=
+http://103.39.198.83/main.php?param=setting=1&m=d&sm=e&i=d1=
+http://103.39.198.83/main.php?param=setting=1&m=d=
+http://103.39.198.83/main.php?param=a=aPBB&m=mPembayaran=
